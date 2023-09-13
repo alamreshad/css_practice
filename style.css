@@ -1,5 +1,16 @@
 body{
     font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
     background: #000;
-    color:
+    color: #ffff;
 }
+
+p{
+    margin: 20px 20px 0 20px;
+} 
+
+h1{
+    center{
+        padding: 15px;
+    }
+}
+  
